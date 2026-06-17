@@ -16,7 +16,7 @@ This repository contains my certifications and proof of learning in UI/UX design
 * Wireframing & Prototyping
 * User Research Basics
 * UI Design Principles
-* Tools: Figma
+* Tool: Figma
 
 ---
 
