@@ -9,7 +9,7 @@ This repository contains my certifications and proof of learning in UI/UX design
 
 ### 📜 Certificate
 
-![UIUX Certificate](https://github.com/gangadharkuratti790-ship-it/Certificates/blob/main/UIUX--Certificate.pdf)                                
+![UIUX Certificate](https://github.com/gangadharkuratti790-ship-it/Certificates/blob/main/UIUX--Certificate.zdf)                                
 
 ### 🛠 Skills Learned
 
